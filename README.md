@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Javascript projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **HTML , CSS , JS**
 
