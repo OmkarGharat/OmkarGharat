@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/Omkaaar92" target="blank"><img src="https://img.shields.io/twitter/follow/omkaaar92?logo=twitter&style=for-the-badge" alt="omkaaar92" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript projects**
+- 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Some concepts of .NET**
 
-- 💬 Ask me about **HTML , CSS , JS , ReactJS**
+- 💬 Ask me about **HTML , CSS , JS , c#, .NET MVC, Entity Framework**
 
 - 📫 How to reach me **omkargharat578@gmail.com**
 
