@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/Omkaaar92" target="blank"><img src="https://img.shields.io/twitter/follow/omkaaar92?logo=twitter&style=for-the-badge" alt="omkaaar92" /></a> </p>
 
-- 🔭 I’m currently working on **.NET projects**
+- 🔭 I’m currently working on **Testing projects**
 
-- 🌱 I’m currently learning **Some concepts of .NET**
+- 🌱 I’m currently learning **Some concepts of Automation Testing**
 
-- 💬 Ask me about **HTML , CSS , JS , c#, .NET MVC, Entity Framework**
+- 💬 Ask me about **Agile, Testing Methodology, SDLC, STLC, Selenium, API Testing, Rest Assured, Postman**
 
 - 📫 How to reach me **omkargharat578@gmail.com**
 
