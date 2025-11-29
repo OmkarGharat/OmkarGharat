@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **Agile, Testing Methodology, SDLC, STLC, Selenium, API Testing, Rest Assured, Postman**
+- 💬 Ask me about **Agile, Testing Methodology, SDLC, STLC, Selenium, TestNG, API Testing, Rest Assured, Postman**
 
 - 📫 How to reach me **omkargharat578@gmail.com**
 
